@@ -1,10 +1,8 @@
 {
-    "firstName": "Natalia",
-    "lastName": "Romanova",
-    "preferredName": "Black Widow",
-    "email": "blackwidow@gmail.com",
-    "phonenumber": "909-654-0495",
-    "city": "Los Angeles",
-    "state": "CA",
-    "zip": "90013"
+    "name": "Natalia Romanova",
+    "heroName": "Black Widow",
+    "contactInfo": {
+        "email": ["blackwidow@gmail.com"],
+        "phonenumber": ["909-654-0495"]
+    }
 }
